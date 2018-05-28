@@ -10,6 +10,5 @@ The website will be up and available soon.
 [Github](https://github.com/sajManzoor)
 
 [LinkedIn](https://www.linkedin.com/in/sajid-manzoor-b2b916115/)
-```
 
 
