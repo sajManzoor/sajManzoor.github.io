@@ -1,7 +1,7 @@
 ## Under Development
 
 I am currently making some changes to my github pages website. 
-The website will be up and available soon.
+The website will be up and available soon...
 
 
 ### Contact me :
